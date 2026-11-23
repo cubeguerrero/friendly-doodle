@@ -44,6 +44,21 @@
       },
       "osd:brandName": "Better Education",
       "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
+    },
+    {
+      "identifier": "urn:air:z3n-llm-jay-shoefix.zendesk.com:bff6a26f-ea3b-4ce0-bfcd-44904f9bdf82:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://z3n-llm-jay-shoefix.zendesk.com/api/mcp/server-card",
+      "displayName": "Suspended OSD",
+      "representativeQueries": [
+        "What is suspended?",
+        "What is service?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "shoefix",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
     }
   ]
 }
