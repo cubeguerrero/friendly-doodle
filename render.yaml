@@ -1,0 +1,12 @@
+services:
+  - type: web
+    runtime: static
+    name: ard-sample-server
+    staticPublishPath: ./public
+    headers:
+      - path: /.well-known/*
+        name: Access-Control-Allow-Origin
+        value: "*"
+      - path: /.well-known/*
+        name: Content-Type
+        value: application/json
