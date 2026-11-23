@@ -14,6 +14,21 @@
       },
       "osd:brandName": "gamesteam",
       "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
+    },
+    {
+      "identifier": "urn:air:z3n-llm-jay-gamesteam.zendesk.com:be78c6a3-aca4-41eb-bbb8-a6f9145938dd:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://z3n-llm-jay-gamesteam.zendesk.com/api/mcp/server-card",
+      "displayName": "Pending Review OSD",
+      "representativeQueries": [
+        "What is game?",
+        "What is pending OSD?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "gamesteam",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
     }
   ]
 }
