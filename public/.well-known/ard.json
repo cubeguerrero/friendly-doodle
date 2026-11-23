@@ -1,4 +1,19 @@
 {
-  "name": "ARD Sample Server",
-  "description": "Replace this placeholder with your ard.json content."
+  "entries": [
+    {
+      "identifier": "urn:air:z3n-llm-jay-gamesteam.zendesk.com:ab7c9fa6-f021-4479-8c97-f2545b491138:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://z3n-llm-jay-gamesteam.zendesk.com/api/mcp/server-card",
+      "displayName": "Test OSD",
+      "representativeQueries": [
+        "What is game?",
+        "What is steam?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "gamesteam",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
+    }
+  ]
 }
