@@ -59,6 +59,21 @@
       },
       "osd:brandName": "shoefix",
       "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
+    },
+    {
+      "identifier": "urn:air:another-brand-jay.zendesk.com:dc403e7b-1f9d-45b4-bccf-9ce3967f71f8:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://another-brand-jay.zendesk.com/api/mcp/server-card",
+      "displayName": "Suspended OSD",
+      "representativeQueries": [
+        "What is another?",
+        "What is brand?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "Another brand",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
     }
   ]
 }
