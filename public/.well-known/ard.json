@@ -29,6 +29,21 @@
       },
       "osd:brandName": "gamesteam",
       "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
+    },
+    {
+      "identifier": "urn:air:z3n-llm-jay-better-education.zendesk.com:30be06b5-0f9b-4fc3-9d1f-006aa7ec7dd7:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://z3n-llm-jay-better-education.zendesk.com/api/mcp/server-card",
+      "displayName": "Needs change OSD",
+      "representativeQueries": [
+        "What is better?",
+        "What is education?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "Better Education",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
     }
   ]
 }
