@@ -74,6 +74,22 @@
       },
       "osd:brandName": "Another brand",
       "osd:brandDomain": "another-friendly-doodle-v2.onrender.com"
+    },
+    {
+      "identifier": "urn:air:z3n-llm-jay-better-education.zendesk-staging.com:6a3f4024-f223-4635-9bfb-7f450af2ce72:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://z3n-llm-jay-better-education.zendesk-staging.com/api/mcp/server-card",
+      "displayName": "hellop",
+      "description": "hello",
+      "representativeQueries": [
+        "what is hello?",
+        "what is booyah?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "Better Education",
+      "osd:brandDomain": "another-friendly-doodle-v2.onrender.com"
     }
   ]
 }
