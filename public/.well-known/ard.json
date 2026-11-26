@@ -74,6 +74,22 @@
       },
       "osd:brandName": "Another brand",
       "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
+    },
+    {
+      "identifier": "urn:air:z3n-mcp-messaging-bridge--26-1.zendesk.com:4c9c294b-1918-4fbf-bd4c-73110b8fcb45:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://z3n-mcp-messaging-bridge--26-1.zendesk.com/api/mcp/server-card",
+      "displayName": "OSD 2a153224 MCP",
+      "description": "Disposable 2a153224 MCP connection fixture (guest, sign-in, mismatch, paused, restore).",
+      "representativeQueries": [
+        "How can OSD 2a153224 MCP customers get help?",
+        "Where can OSD 2a153224 MCP customers find support?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "OSD MCP 2a153224",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
     }
   ]
 }
