@@ -10,7 +10,9 @@
         "How can OSD 13843f73 CONTROL customers get help?",
         "Where can OSD 13843f73 CONTROL customers find support?"
       ],
-      "@context": {"osd": "https://opensupport.directory/ns#"},
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
       "osd:brandName": "OSD Lifecycle 13843f73",
       "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
     },
@@ -24,7 +26,73 @@
         "How can OSD 13843f73 J LIFE customers get help?",
         "Where can OSD 13843f73 J LIFE customers find support?"
       ],
-      "@context": {"osd": "https://opensupport.directory/ns#"},
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "OSD Lifecycle 13843f73",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
+    },
+    {
+      "identifier": "urn:air:z3n-groot-mcp-pod26-1-brand-b.zendesk.com:fe2e22d6-3fe3-4cb8-b466-0e7cd5ac6710:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://z3n-groot-mcp-pod26-1-brand-b.zendesk.com/api/mcp/server-card",
+      "displayName": "OSD 13843f73 BAD",
+      "description": "Disposable 13843f73-4bd8-45cc-9868-b7a72fc00860 BAD lifecycle/search fixture.",
+      "representativeQueries": [
+        "How can OSD 13843f73 BAD customers get help?",
+        "Where can OSD 13843f73 BAD customers find support?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "OSD Lifecycle 13843f73",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
+    },
+    {
+      "identifier": "urn:air:z3n-groot-mcp-pod26-1-brand-c.zendesk.com:e6aeaba0-bb4b-424d-b26b-0a1a60475ab9:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://z3n-groot-mcp-pod26-1-brand-c.zendesk.com/api/mcp/server-card",
+      "displayName": "OSD 13843f73 FIX DELETE",
+      "description": "Disposable 13843f73-4bd8-45cc-9868-b7a72fc00860 FIX_DELETE lifecycle/search fixture.",
+      "representativeQueries": [
+        "How can OSD 13843f73 FIX DELETE customers get help?",
+        "Where can OSD 13843f73 FIX DELETE customers find support?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "OSD Lifecycle 13843f73",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
+    },
+    {
+      "identifier": "urn:air:z3n-groot-mcp-pod26-1-brand-d.zendesk.com:80858388-b18e-4ead-a69f-cd6725bf0414:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://z3n-groot-mcp-pod26-1-brand-d.zendesk.com/api/mcp/server-card",
+      "displayName": "OSD 13843f73 HOLD",
+      "description": "Disposable 13843f73-4bd8-45cc-9868-b7a72fc00860 HOLD lifecycle/search fixture.",
+      "representativeQueries": [
+        "How can OSD 13843f73 HOLD customers get help?",
+        "Where can OSD 13843f73 HOLD customers find support?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "OSD Lifecycle 13843f73",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
+    },
+    {
+      "identifier": "urn:air:z3n-groot-mcp-pod26-1-brand-e.zendesk.com:aa877fec-1157-49e3-9bf0-19ff1d0794ac:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://z3n-groot-mcp-pod26-1-brand-e.zendesk.com/api/mcp/server-card",
+      "displayName": "OSD 13843f73 PAUSED",
+      "description": "Disposable 13843f73-4bd8-45cc-9868-b7a72fc00860 PAUSED lifecycle/search fixture.",
+      "representativeQueries": [
+        "How can OSD 13843f73 PAUSED customers get help?",
+        "Where can OSD 13843f73 PAUSED customers find support?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
       "osd:brandName": "OSD Lifecycle 13843f73",
       "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
     }
