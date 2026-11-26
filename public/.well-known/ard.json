@@ -21,26 +21,10 @@
       "type": "application/mcp-server-card+json",
       "url": "https://z3n-groot-mcp-pod26-1-brand-a.zendesk.com/api/mcp/server-card",
       "displayName": "OSD 13843f73 J LIFE",
-      "description": "Disposable 13843f73-4bd8-45cc-9868-b7a72fc00860 J_LIFE lifecycle/search fixture.",
+      "description": "Updated support service lifedit13843f73.",
       "representativeQueries": [
         "How can OSD 13843f73 J LIFE customers get help?",
         "Where can OSD 13843f73 J LIFE customers find support?"
-      ],
-      "@context": {
-        "osd": "https://opensupport.directory/ns#"
-      },
-      "osd:brandName": "OSD Lifecycle 13843f73",
-      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
-    },
-    {
-      "identifier": "urn:air:z3n-groot-mcp-pod26-1-brand-c.zendesk.com:e6aeaba0-bb4b-424d-b26b-0a1a60475ab9:support:mcp-server",
-      "type": "application/mcp-server-card+json",
-      "url": "https://z3n-groot-mcp-pod26-1-brand-c.zendesk.com/api/mcp/server-card",
-      "displayName": "OSD 13843f73 FIX DELETE",
-      "description": "Corrected support service fixcorr13843f73.",
-      "representativeQueries": [
-        "How can OSD 13843f73 FIX DELETE customers get help?",
-        "Where can OSD 13843f73 FIX DELETE customers find support?"
       ],
       "@context": {
         "osd": "https://opensupport.directory/ns#"
