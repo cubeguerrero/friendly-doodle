@@ -1,19 +1,78 @@
 {
   "entries": [
     {
-      "identifier": "urn:air:z3n-groot-mcp-pod26-1.zendesk.com:d54ace19-fb65-4605-b206-8213051fde87:support:mcp-server",
+      "identifier": "urn:air:z3n-llm-jay-gamesteam.zendesk.com:ab7c9fa6-f021-4479-8c97-f2545b491138:support:mcp-server",
       "type": "application/mcp-server-card+json",
-      "url": "https://z3n-groot-mcp-pod26-1.zendesk.com/api/mcp/server-card",
-      "displayName": "OSD P109 fb9c0c00",
-      "description": "Disposable P1-09 approval retest fb9c0c00.",
+      "url": "https://z3n-llm-jay-gamesteam.zendesk.com/api/mcp/server-card",
+      "displayName": "Test OSD",
       "representativeQueries": [
-        "How can OSD P109 fb9c0c00 customers get help?",
-        "Where can OSD P109 fb9c0c00 customers find support?"
+        "What is game?",
+        "What is steam?"
       ],
       "@context": {
         "osd": "https://opensupport.directory/ns#"
       },
-      "osd:brandName": "OSD P109 fb9c0c00",
+      "osd:brandName": "gamesteam",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
+    },
+    {
+      "identifier": "urn:air:z3n-llm-jay-gamesteam.zendesk.com:be78c6a3-aca4-41eb-bbb8-a6f9145938dd:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://z3n-llm-jay-gamesteam.zendesk.com/api/mcp/server-card",
+      "displayName": "Pending Review OSD",
+      "representativeQueries": [
+        "What is game?",
+        "What is pending OSD?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "gamesteam",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
+    },
+    {
+      "identifier": "urn:air:z3n-llm-jay-better-education.zendesk.com:30be06b5-0f9b-4fc3-9d1f-006aa7ec7dd7:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://z3n-llm-jay-better-education.zendesk.com/api/mcp/server-card",
+      "displayName": "Needs change OSD",
+      "representativeQueries": [
+        "What is better?",
+        "What is education?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "Better Education",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
+    },
+    {
+      "identifier": "urn:air:z3n-llm-jay-shoefix.zendesk.com:bff6a26f-ea3b-4ce0-bfcd-44904f9bdf82:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://z3n-llm-jay-shoefix.zendesk.com/api/mcp/server-card",
+      "displayName": "Suspended OSD",
+      "representativeQueries": [
+        "What is suspended?",
+        "What is service?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "shoefix",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
+    },
+    {
+      "identifier": "urn:air:another-brand-jay.zendesk.com:dc403e7b-1f9d-45b4-bccf-9ce3967f71f8:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://another-brand-jay.zendesk.com/api/mcp/server-card",
+      "displayName": "Suspended OSD",
+      "representativeQueries": [
+        "What is another?",
+        "What is brand?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "Another brand",
       "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
     }
   ]
