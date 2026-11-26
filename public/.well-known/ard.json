@@ -1,78 +1,31 @@
 {
   "entries": [
     {
-      "identifier": "urn:air:z3n-llm-jay-gamesteam.zendesk.com:ab7c9fa6-f021-4479-8c97-f2545b491138:support:mcp-server",
+      "identifier": "urn:air:z3n-groot-mcp-pod26-1.zendesk.com:9abe662e-4312-4724-b81e-c42f12d4722d:support:mcp-server",
       "type": "application/mcp-server-card+json",
-      "url": "https://z3n-llm-jay-gamesteam.zendesk.com/api/mcp/server-card",
-      "displayName": "Test OSD",
+      "url": "https://z3n-groot-mcp-pod26-1.zendesk.com/api/mcp/server-card",
+      "displayName": "OSD 13843f73 CONTROL",
+      "description": "Disposable 13843f73-4bd8-45cc-9868-b7a72fc00860 CONTROL lifecycle/search fixture.",
       "representativeQueries": [
-        "What is game?",
-        "What is steam?"
+        "How can OSD 13843f73 CONTROL customers get help?",
+        "Where can OSD 13843f73 CONTROL customers find support?"
       ],
-      "@context": {
-        "osd": "https://opensupport.directory/ns#"
-      },
-      "osd:brandName": "gamesteam",
+      "@context": {"osd": "https://opensupport.directory/ns#"},
+      "osd:brandName": "OSD Lifecycle 13843f73",
       "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
     },
     {
-      "identifier": "urn:air:z3n-llm-jay-gamesteam.zendesk.com:be78c6a3-aca4-41eb-bbb8-a6f9145938dd:support:mcp-server",
+      "identifier": "urn:air:z3n-groot-mcp-pod26-1-brand-a.zendesk.com:d1ae51d2-55eb-45c5-aadd-563d980c54c4:support:mcp-server",
       "type": "application/mcp-server-card+json",
-      "url": "https://z3n-llm-jay-gamesteam.zendesk.com/api/mcp/server-card",
-      "displayName": "Pending Review OSD",
+      "url": "https://z3n-groot-mcp-pod26-1-brand-a.zendesk.com/api/mcp/server-card",
+      "displayName": "OSD 13843f73 J LIFE",
+      "description": "Disposable 13843f73-4bd8-45cc-9868-b7a72fc00860 J_LIFE lifecycle/search fixture.",
       "representativeQueries": [
-        "What is game?",
-        "What is pending OSD?"
+        "How can OSD 13843f73 J LIFE customers get help?",
+        "Where can OSD 13843f73 J LIFE customers find support?"
       ],
-      "@context": {
-        "osd": "https://opensupport.directory/ns#"
-      },
-      "osd:brandName": "gamesteam",
-      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
-    },
-    {
-      "identifier": "urn:air:z3n-llm-jay-better-education.zendesk.com:30be06b5-0f9b-4fc3-9d1f-006aa7ec7dd7:support:mcp-server",
-      "type": "application/mcp-server-card+json",
-      "url": "https://z3n-llm-jay-better-education.zendesk.com/api/mcp/server-card",
-      "displayName": "Needs change OSD",
-      "representativeQueries": [
-        "What is better?",
-        "What is education?"
-      ],
-      "@context": {
-        "osd": "https://opensupport.directory/ns#"
-      },
-      "osd:brandName": "Better Education",
-      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
-    },
-    {
-      "identifier": "urn:air:z3n-llm-jay-shoefix.zendesk.com:bff6a26f-ea3b-4ce0-bfcd-44904f9bdf82:support:mcp-server",
-      "type": "application/mcp-server-card+json",
-      "url": "https://z3n-llm-jay-shoefix.zendesk.com/api/mcp/server-card",
-      "displayName": "Suspended OSD",
-      "representativeQueries": [
-        "What is suspended?",
-        "What is service?"
-      ],
-      "@context": {
-        "osd": "https://opensupport.directory/ns#"
-      },
-      "osd:brandName": "shoefix",
-      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
-    },
-    {
-      "identifier": "urn:air:another-brand-jay.zendesk.com:dc403e7b-1f9d-45b4-bccf-9ce3967f71f8:support:mcp-server",
-      "type": "application/mcp-server-card+json",
-      "url": "https://another-brand-jay.zendesk.com/api/mcp/server-card",
-      "displayName": "Suspended OSD",
-      "representativeQueries": [
-        "What is another?",
-        "What is brand?"
-      ],
-      "@context": {
-        "osd": "https://opensupport.directory/ns#"
-      },
-      "osd:brandName": "Another brand",
+      "@context": {"osd": "https://opensupport.directory/ns#"},
+      "osd:brandName": "OSD Lifecycle 13843f73",
       "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
     }
   ]
