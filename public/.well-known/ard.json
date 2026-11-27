@@ -89,7 +89,7 @@
       "@context": {
         "osd": "https://opensupport.directory/ns#"
       },
-      "osd:brandName": "zenhpone",
+      "osd:brandName": "zenphone",
       "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
     }
   ]
