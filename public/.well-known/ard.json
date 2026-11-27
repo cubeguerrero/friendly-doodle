@@ -91,6 +91,22 @@
       },
       "osd:brandName": "zenphone",
       "osd:brandDomain": "zenphone-qw29.onrender.com"
+    },
+    {
+      "identifier": "urn:air:z3n-llm-jay.zendesk-staging.com:6433a5f8-3667-4ec2-8059-0bf414cc616f:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://z3n-llm-jay.zendesk-staging.com/api/mcp/server-card",
+      "displayName": "Sample server test listing",
+      "description": "Temporary listing for testing PR 54 against the ard-sample-server. Safe to delete.",
+      "representativeQueries": [
+        "How can I contact llm brand customer support?",
+        "Can you help me with an order or account issue for llm brand?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "llm brand",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
     }
   ]
 }
