@@ -76,11 +76,11 @@
       "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
     },
     {
-      "identifier": "urn:air:z3n-ganesh-osd-pod999.zendesk-staging.com:ff63cdd4-c0be-46fe-ad1c-86e4e6d8be46:support:mcp-server",
+      "identifier": "urn:air:z3n-ganesh-osd-pod999.zendesk-staging.com:36d0df96-4143-476f-915f-204f4be53c5f:support:mcp-server",
       "type": "application/mcp-server-card+json",
       "url": "https://z3n-ganesh-osd-pod999.zendesk-staging.com/api/mcp/server-card",
       "displayName": "zenphone",
-      "description": "help zenphone customers to reach out for troubleshooting",
+      "description": "help zenphone customers",
       "representativeQueries": [
         "Why is my zenphone suddenly not starting?",
         "How do I fix zenphone without losing my photos and data?",
