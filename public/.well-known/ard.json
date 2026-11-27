@@ -74,6 +74,25 @@
       },
       "osd:brandName": "Another brand",
       "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
+    },
+    {
+      "identifier": "urn:air:z3n-mcp-messaging-bridge--26-1.zendesk.com:82803168-f793-4286-ba7c-ee2fde84eb79:support:mcp-server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://z3n-mcp-messaging-bridge--26-1.zendesk.com/api/mcp/server-card",
+      "displayName": "Mobile shop - zenphone",
+      "description": "Helps to identify issues related to zenphone",
+      "representativeQueries": [
+        "Why is my mobile data not working or slow?",
+        "Why is my battery draining fast or overheating?",
+        "Why is my phone lagging, freezing, or crashing apps?",
+        "What causes a black screen, flickering, or ghost touch?",
+        "Why is my microphone or speaker muffled or not working?"
+      ],
+      "@context": {
+        "osd": "https://opensupport.directory/ns#"
+      },
+      "osd:brandName": "zenphone",
+      "osd:brandDomain": "friendly-doodle-tndx.onrender.com"
     }
   ]
 }
